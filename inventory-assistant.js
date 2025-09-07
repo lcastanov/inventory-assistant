@@ -2,8 +2,8 @@
 
 const itemName = "iPad Air"
 let unitCost = 349.00
-let currentStock = 100
-let reorderLevel = 20
+let currentStock = 150
+let reorderLevel = 200
 let targetStock = 1500
 let weeklyDemand = 50
 let supplierLeadTimeWeeks = 2
