@@ -20,5 +20,5 @@ console.log("Item name: " + itemName)
 console.log("Weeks of cover: " + weeksOfCover)
 console.log("Is it time to reorder?: " + reorderNow)
 console.log("Recommended reorder quantity: " + reorderQuantity)
-console.log("Estimated reorder cost: $" + estimatedReorderCost)
+console.log("Estimated reorder cost: $" + estimatedReorderCost.toFixed(2))
 
